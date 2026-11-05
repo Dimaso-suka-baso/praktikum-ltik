@@ -1,7 +1,7 @@
-a = 3
-b = 5
+a = 15
+b = 3
 
-print("a * b")
+print("a / b")
 
-hasil = a * b
+hasil = a / b
 print(hasil)
