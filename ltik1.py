@@ -1,1 +1,1 @@
-print("helikopter turun ke padang")
+print("Hallo ini David")
